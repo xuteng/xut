@@ -1,0 +1,20 @@
+var imageData = [
+  {
+    "name":"dongzao",
+    "en":"Dates",
+    "pic":"01dongzao_pic",
+    "eeg":"01dongzao_eeg"
+  },
+  {
+    "name":"meigui",
+    "en":"Roses",
+    "pic":"02meigui_pic",
+    "eeg":"02meigui_eeg"
+  },
+  {
+    "name":"ningmeng",
+    "en":"Lemon",
+    "pic":"03ningmeng_pic",
+    "eeg":"03ningmeng_eeg"
+  }
+]
